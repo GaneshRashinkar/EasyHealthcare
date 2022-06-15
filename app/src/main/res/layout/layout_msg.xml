@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:orientation="vertical"
+
+    >
+
+    <TextView
+        android:id="@+id/tvMsgSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="left"
+        android:layout_gravity="left"
+
+        android:text="hi"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:padding="@dimen/_3sdp"
+        android:background="#C4E8F8"
+        />
+
+    <TextView
+        android:id="@+id/tvMsgReceive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="hello"
+        android:layout_gravity="right"
+        android:layout_margin="@dimen/_3sdp"
+        android:padding="@dimen/_3sdp"
+        android:background="#9DE4A0"
+        />
+<LinearLayout
+    android:id="@+id/ll_yes_no"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    >
+    <Button
+        android:id="@+id/btn_yes"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Yes"
+        android:layout_weight="1"
+        android:layout_margin="@dimen/_5sdp"
+        />
+    <Button
+        android:id="@+id/btn_no"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="No"
+        android:layout_weight="1"
+        android:layout_margin="@dimen/_5sdp"
+        />
+</LinearLayout>
+</LinearLayout>

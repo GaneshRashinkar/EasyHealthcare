@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/drawable/ic_add_photo.xml" value="0.1355" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/drawable/ic_visibility.xml" value="0.151" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout-w1240dp/layout_msg.xml" value="0.12108843537414966" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_appointment_confirmation.xml" value="0.1675925925925926" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_doctor_registration.xml" value="0.16" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_patient_registration.xml" value="0.18854166666666666" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/activity_temporaty.xml" value="0.18854166666666666" />
+        <entry key="..\:/NTT DATA Hackethon/EasyHealthcare/app/src/main/res/layout/layout_msg.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
